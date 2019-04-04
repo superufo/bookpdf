@@ -11,7 +11,7 @@ java并发编程实践       https://pan.baidu.com/s/1jHfhTqA
 
 技术站点 和 技术信息
 
-http://www.ituring.com.cn
+http://www.ituring.com.cn …^
 https://segmentfault.com/a/1190000015464889
 
 
