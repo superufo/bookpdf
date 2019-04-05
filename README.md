@@ -15,6 +15,8 @@ java并发编程实践       https://pan.baidu.com/s/1jHfhTqA
 go:
 http://www.ituring.com.cn 
 
+https://www.kancloud.cn/kancloud/web-application-with-golang/44109 go web开发
+
 IT
 https://segmentfault.com/a/1190000015464889
 
