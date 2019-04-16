@@ -33,3 +33,6 @@ https://blog.csdn.net/weixin_42117918
  
 C++ 并发编程   
 https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
+
+k8s
+https://github.com/rootsongjc/kubernetes-handbook/
