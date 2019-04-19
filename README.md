@@ -6,7 +6,8 @@ Java并发编程 第2版 PDF                链接: https://pan.baidu.com/s/1gNw
 Java并发编程的艺术.pdf                链接:  https://github.com/DeppWang/Java-Book  
 java并发编程实践    https://pan.baidu.com/s/1jHfhTqA   https://github.com/gopcp/example.v2 help工具    
 
-java gradle   https://technologytw.com/2019/03/19868/       
+java gradle   https://technologytw.com/2019/03/19868/ 
+              https://github.com/zhangyd-c/springboot-shiro
 
 
 技术站点 和 技术信息   
