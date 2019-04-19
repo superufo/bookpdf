@@ -16,7 +16,8 @@ http://www.ituring.com.cn
 go web开发 ：https://www.kancloud.cn/kancloud/web-application-with-golang/44109 
 云知识  https://cizixs.com/       
 穿透： https://www.cnblogs.com/jkko123/p/7218685.html   
-      https://studygolang.com/articles/11489    
+      https://studygolang.com/articles/11489 
+      https://www.zhihu.com/people/changwei1997/posts   穿透者
       
 go kit 01    
 https://blog.csdn.net/weixin_42117918      
