@@ -58,3 +58,11 @@ https://a-programmers-guide-to-english.harryyu.me/resources/
 
 union
 https://www.cnblogs.com/flying-shark/p/8562454.html
+
+
+加解密算法结果：
+http://tool.oschina.net/encrypt?type=2     
+http://www.ip33.com/crc.html         
+http://tool.chacuo.net/cryptaes     
+
+
