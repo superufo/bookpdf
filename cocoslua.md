@@ -192,3 +192,10 @@ vs 中添加预处理器
 3mZNVOirtKW                                                                                
 Visual Studio 2017（VS2017） 企业版 Enterprise 注册码：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF                   
 Visual Studio 2017（VS2017） 专业版Professional 激活码key：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH   
+
+
+指南：
+https://docs.cocos2d-x.org/cocos2d-x/zh/basic_concepts/      
+https://fusijie.github.io/Cocos-Resource/index.html     
+
+
