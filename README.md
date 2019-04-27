@@ -55,11 +55,6 @@ http://openresty.org/cn/
 Enlish study plugins
 https://a-programmers-guide-to-english.harryyu.me/resources/
 
-
-tor
-https://www.cnblogs.com/flying-shark/p/8562454.html
-
-
 加解密算法结果：
 http://tool.oschina.net/encrypt?type=2     
 http://www.ip33.com/crc.html         
@@ -82,6 +77,10 @@ myaccount:
 tweet: l******u0007  l*******2
 
 
+加密：
+https://gitweb.torproject.org/orbot.git
 
+tor
+https://www.cnblogs.com/flying-shark/p/8562454.html
 
 
