@@ -37,7 +37,10 @@ k8s
 https://github.com/rootsongjc/kubernetes-handbook/ 
 
 go grpc 
-https://github.com/grpc-ecosystem
+https://github.com/grpc-ecosystem   
+grpc protocol 扩展插件（可以有默认值）               
+https://github.com/mwitkow/go-proto-validators                 
+
  
 IT  
 https://segmentfault.com/a/1190000015464889      
