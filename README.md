@@ -38,7 +38,7 @@ https://github.com/rootsongjc/kubernetes-handbook/
 
 go grpc 
 https://github.com/grpc-ecosystem   
-grpc protocol 扩展插件（可以有默认值）               
+grpc protocol 扩展插件（可以有默认值） 正则匹配的验证                
 https://github.com/mwitkow/go-proto-validators                 
 
  
