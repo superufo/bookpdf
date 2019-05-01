@@ -86,4 +86,6 @@ https://gitweb.torproject.org/orbot.git
 tor
 https://www.cnblogs.com/flying-shark/p/8562454.html
 
+lua 教程      
+http://developer.51cto.com/art/201312/422959.htm     
 
