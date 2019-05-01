@@ -63,13 +63,13 @@ http://tool.oschina.net/encrypt?type=2
 http://www.ip33.com/crc.html         
 http://tool.chacuo.net/cryptaes     
 
-
 在线visio
 https://www.processon.com/diagraming
 
 visial studio 2015    
 https://blog.csdn.net/Poetry_And_Distance/article/details/79714869     
 https://www.cnblogs.com/geeksss/p/4674348.html 安装   
+https://github.com/fusijie/Cocos-Resource
 
 jwt token
 https://jwt.io/
