@@ -198,4 +198,9 @@ Visual Studio 2017（VS2017） 专业版Professional 激活码key：KBJFW-NXHK6-
 https://docs.cocos2d-x.org/cocos2d-x/zh/basic_concepts/      
 https://fusijie.github.io/Cocos-Resource/index.html     
 
+win lua 编译
+https://www.byjth.com/lua/33.html
+https://www.byjth.com/lua/34.html
+
+
 
