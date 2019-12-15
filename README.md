@@ -20,8 +20,13 @@ go web开发 ：https://www.kancloud.cn/kancloud/web-application-with-golang/441
       https://www.zhihu.com/people/changwei1997/posts   穿透者
  https://github.com/ffhelicopter/Go42  Go语言四十二章经 
  
- 微服务 服务网格
- https://tencentcloudcontainerteam.github.io/2019/01/31/servicemesh-istio/
+微服务 服务网格
+https://tencentcloudcontainerteam.github.io/2019/01/31/servicemesh-istio/
+https://www.servicemesher.com/istio-handbook/concepts-and-principle/what-is-service-mesh.html
+https://www.infoq.cn/article/9pWx9Y_FWkqUWcuWWrmd
+https://tencentcloudcontainerteam.github.io/2019/01/31/servicemesh-istio/
+https://skyao.io/learning-istio/pilot/trend/mcp.html
+
 
   
 go kit 01    
