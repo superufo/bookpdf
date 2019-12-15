@@ -19,7 +19,10 @@ go web开发 ：https://www.kancloud.cn/kancloud/web-application-with-golang/441
       https://studygolang.com/articles/11489 
       https://www.zhihu.com/people/changwei1997/posts   穿透者
  https://github.com/ffhelicopter/Go42  Go语言四十二章经 
-  
+ 
+ 微服务 服务网格
+ https://tencentcloudcontainerteam.github.io/2019/01/31/servicemesh-istio/
+
   
 go kit 01    
 https://blog.csdn.net/weixin_42117918      
