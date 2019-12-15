@@ -18,7 +18,9 @@ go web开发 ：https://www.kancloud.cn/kancloud/web-application-with-golang/441
 穿透： https://www.cnblogs.com/jkko123/p/7218685.html   
       https://studygolang.com/articles/11489 
       https://www.zhihu.com/people/changwei1997/posts   穿透者
-      
+ https://github.com/ffhelicopter/Go42  Go语言四十二章经 
+  
+  
 go kit 01    
 https://blog.csdn.net/weixin_42117918      
 https://www.golangtc.com/t/5a3d01924ce40d59bd0f4e0d    
