@@ -28,6 +28,7 @@ https://tencentcloudcontainerteam.github.io/2019/01/31/servicemesh-istio/
 https://skyao.io/learning-istio/pilot/trend/mcp.html
 http://servicecomb.apache.org/cn/docs/service-center/install/
 https://www.servicemesher.com/istio-handbook/
+https://www.bookstack.cn/read/istio-1.4-zh/974a1abb1e89cb64.md   Istio v1.4 官方文档中文版 
 
 go kit 01    
 https://blog.csdn.net/weixin_42117918      
